@@ -1,0 +1,25 @@
+{
+  "name": "cli-menu",
+  "version": "1.0.0",
+  "description": "Organize your CLI app around menu selections",
+  "main": "index.js",
+  "files": [],
+  "scripts": {
+    "test": "echo \"Error: no test specified 😱\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TehShrike/cli-menu.git"
+  },
+  "keywords": [
+    "cli",
+    "terminal",
+    "menu"
+  ],
+  "author": "TehShrike",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/TehShrike/cli-menu/issues"
+  },
+  "homepage": "https://github.com/TehShrike/cli-menu#readme"
+}
